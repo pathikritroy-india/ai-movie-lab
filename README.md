@@ -43,7 +43,7 @@ An elderly tailor and his son take their 1970s mobile tailoring van across India
 
 ### What is in this repository
 
-- **[The replication guide (PDF, V1.2)](guide/Sui_Dhaaga_AI_Film_Lab_Guide_V1_2.pdf)** - the full teaching case study: every prompt, the continuity bible, the storyboard, tool decisions, corrections, and an instructor debrief. Written so a beginner can repeat the whole project.
+- **[The replication guide (PDF, V1.3)](guide/Sui_Dhaaga_AI_Film_Lab_Guide_V1_3.pdf)** - the full teaching case study: every prompt, the continuity bible, the storyboard, tool decisions, corrections, publication workflow, and an instructor debrief. Written so a beginner can repeat the whole project. ([V1.2](guide/Sui_Dhaaga_AI_Film_Lab_Guide_V1_2.pdf) kept for version history.)
 - **[assets/](assets)** - the locked master poster and the approved Gemini stills for all five scenes.
 - **[briefs/](briefs)** - the actual hand-off briefs used to move the project between AI models (Claude Cowork to ChatGPT Codex and back) without losing continuity. The core lesson of the project: the brief is the source of truth; models are interchangeable workstations.
 
